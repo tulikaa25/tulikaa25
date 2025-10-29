@@ -45,6 +45,7 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulikaa25&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tulikaa25&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=tulikaa25&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <p align="center">
@@ -66,7 +67,7 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="linkedin.com/in/tulika-basu-580547251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tulika-basu-580547251" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tulikaa257@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/tulikaa25"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="discordapp.com/users/tulika0184" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
