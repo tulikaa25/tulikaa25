@@ -11,9 +11,9 @@
 
 ## 🦄 About Me
 
-🎯 Passionate about building beautiful, responsive, and user-friendly web experiences.  
-🌱 Currently diving deeper into **front-end frameworks** and **UI/UX design**.  
-🧠 Always exploring **new tools**, **clean code practices**, and **creative ideas**.  
+🎯 Passionate about frontend, backend, and Generative AI development.  
+🌱 Continuously exploring modern frameworks, system architecture, and AI-powered applications.  
+🧠 Focused on writing clean, efficient code and creating seamless user experiences.  
 💬 Love to collaborate, share knowledge, and contribute to open-source projects.  
 
 > “The best way to predict the future is to create it.” — Alan Kay
@@ -23,8 +23,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,react,vscode" />
-</p>
+   <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,cpp" /><br/>
 
 ---
 
@@ -32,10 +33,10 @@
 
 | 💡 Project | 🔍 Description | 🧩 Tech |
 |-------------|----------------|---------|
-| [**Crafter's Corner**](https://github.com/tulikaa25/crafter-s_corner) | A creative blog website built to inform, entertain, and empower users. | HTML, CSS, JS |
-| [**WebDev Learning**](https://github.com/tulikaa25/webdev_learning) | Hands-on web dev exercises & experiments. | HTML, CSS, JS |
-| [**Java Coding**](https://github.com/tulikaa25/java_coding) | Collection of Java programs & coding challenges. | Java |
-| [**Open Source Practice**](https://github.com/tulikaa25/Open-source-Practice) | Contributions & collaboration projects from GSSoC & beyond. | Open Source |
+| [**AgriWeather Alert System**](https://github.com/tulikaa25/agri-weather-alert-system.git) | A creative blog website built to inform, entertain, and empower users. | HTML, CSS, JS |
+| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | Hands-on web dev exercises & experiments. | HTML, CSS, JS |
+| [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) | Collection of Java programs & coding challenges. | Java |
+| [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) | Hands-on web dev exercises & experiments. | HTML, CSS, JS | 
 
 ---
 
@@ -55,7 +56,7 @@
 ## 🌈 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="120" /><br>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="240" /><br>
   <b>✨ Random Dev Quote ✨</b><br>
   <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
@@ -65,29 +66,20 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="linkedin.com/in/tulika-basu-580547251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tulikaa257@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/tulikaa25"><img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="discordapp.com/users/tulika0184" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
 ## 🧠 Current Focus
 
-- 🚧 Building responsive front-end projects  
-- 🎨 Improving UI/UX design skills  
-- 💬 Contributing to open-source communities  
-- 📚 Learning React & modern JS frameworks  
-
----
-
-## ☕ Support My Work
-
-If you like what I do — consider buying me a coffee 🩵
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge" /></a>
-</p>
+- 🚀 Developing full-stack and AI-driven applications
+- 🎨 Crafting intuitive, responsive user experiences 
+- 💬 Collaborating and contributing to open-source projects
+- 🧠 Learning modern frameworks and AI tools  
 
 ---
 
