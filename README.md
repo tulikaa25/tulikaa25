@@ -43,9 +43,9 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulikaa25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulikaa25&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tulikaa25&theme=tokyonight&hide_border=true" />
-  <!-- <img width="49%" src="https://streak-stats.demolab.com?user=tulikaa25&theme=tokyonight&hide_border=true" /> -->
+ 
 </p>
 
 <p align="center">
