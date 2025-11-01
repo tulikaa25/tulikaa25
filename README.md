@@ -33,10 +33,10 @@
 
 | 💡 Project | 🔍 Description | 🧩 Tech |
 |-------------|----------------|---------|
-| [**AgriWeather Alert System**](https://github.com/tulikaa25/agri-weather-alert-system.git) | A creative blog website built to inform, entertain, and empower users. | HTML, CSS, JS |
-| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | Hands-on web dev exercises & experiments. | HTML, CSS, JS |
-| [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) | Collection of Java programs & coding challenges. | Java |
-| [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) | Hands-on web dev exercises & experiments. | HTML, CSS, JS | 
+| [**AgriWeather Alert System**](https://github.com/tulikaa25/agri-weather-alert-system.git) | A creative blog website built to inform, entertain, and empower users. | Express, Twilio, LLM, MongoDB, Scheduler |
+| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | Hands-on web dev exercises & experiments. | Node, Express, MongoDB, JWT |
+| [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) | Collection of Java programs & coding challenges. |  Langchain, CLIP Model, Faiss, LLM  |
+| [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) | Hands-on web dev exercises & experiments. |Node, Python, LLM| 
 
 ---
 
@@ -44,15 +44,15 @@
 
 <p align="center">
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulikaa25&show_icons=true&theme=tokyonight&hide_border=true" /> -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tulikaa25&theme=tokyonight&hide_border=true" />
- 
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tulikaa25&theme=tokyonight&hide_border=true" /> -->
+  <img width="49%" src="https://streak-stats.demolab.com/?user=tulikaa25&theme=tokyonight&hide_border=true" />
 </p>
-
+ 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tulikaa25&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+---   
 
 ## 🌈 Fun Zone
 
