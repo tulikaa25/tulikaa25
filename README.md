@@ -34,7 +34,7 @@
 | 💡 Project | 🔍 Description | 🧩 Tech |
 |-------------|----------------|---------|
 | [**AgriWeather Alert System**](https://github.com/tulikaa25/agri-weather-alert-system.git) | A creative blog website built to inform, entertain, and empower users. | Express, Twilio, LLM, MongoDB, Scheduler |
-| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | Hands-on web dev exercises & experiments. | Node, Express, MongoDB, JWT |
+| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | Hands-on web dev exercises & experiments. | Node, Express, MongoDB, JWT, Postman |
 | [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) | Collection of Java programs & coding challenges. |  Langchain, CLIP Model, Faiss, LLM  |
 | [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) | Hands-on web dev exercises & experiments. |Node, Python, LLM| 
 
