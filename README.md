@@ -33,10 +33,10 @@
 
 | 💡 Project | 🔍 Description | 🧩 Tech |
 |-------------|----------------|---------|
-| [**AgriWeather Alert System**](https://github.com/tulikaa25/agri-weather-alert-system.git) | | Express, Twilio, LLM, MongoDB, Scheduler |
-| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) | | Node, Express, MongoDB, JWT, Postman |
-| [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) | |
-| [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) |  |Node, Python, LLM| 
+| [**AgriWeather Alert System**](https://github.com/tulikaa25/agriweather-alert-system/) |Delivers real-time weather updates automatically. Enables timely, informed decisions with minimal effort. | Spring Boot, Twilio, LLM, My SQL, Scheduler |
+| [**Blood Connect**](https://github.com/tulikaa25/Blood-Connect.git) |Blood donation managemnet system | Node, Express, MongoDB, JWT, Postman |
+| [**Multimodal RAG**](https://github.com/tulikaa25/multimodal_RAG.git) |Query documents using LLM and get grounded responses | Vector DB , Clip embedding model, LLM, PyMuPDF|
+ [**E commerce Product Recommender**](https://github.com/tulikaa25/Tulika-Basu_22BCE11161_E-commerce-Product-Recommender_8.git) | Product recommendation system with LLM powered reasoning for each recommendation |Node, Python, LLM| 
 
 ---
 
